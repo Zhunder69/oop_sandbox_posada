@@ -1,5 +1,7 @@
 # OOP Sandbox for Jose Posada
 
+This is a new line by jgayon
+
 ## This is subtitle
 
 ### This is a sub title
@@ -7,8 +9,8 @@
 this is a normal text
 
 - first bullet
-    -sub bullet
-        -sub bullet
+    - sub bullet
+        - sub bullet
 - second bullet
 - third bullet
 
