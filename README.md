@@ -10,7 +10,7 @@ this is a normal text
 - second bullet
 - third bullet
 
-This is a hyperñink for [readsy](http://www.readsy.co/)
+This is a hyperlink for [readsy](http://www.readsy.co/)
 
 This is inline code `import panda as pd`
 
