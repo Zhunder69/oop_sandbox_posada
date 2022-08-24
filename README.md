@@ -7,10 +7,12 @@
 this is a normal text
 
 - first bullet
+    -sub bullet
+        -sub bullet
 - second bullet
 - third bullet
 
-This is a hyperlink for [readsy](http://www.readsy.co/)
+This is a hyperlink for [Udemy](https://www.udemy.com/)
 
 This is inline code `import panda as pd`
 
